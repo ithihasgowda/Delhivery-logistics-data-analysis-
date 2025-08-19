@@ -32,3 +32,21 @@ How can we reduce freight charges while maintaining speed?
 
 What are the top improvement areas for delivery efficiency?
 
+
+## 📊 Insights
+1. 📦 **Corridor A is the busiest** (4,200 orders), followed by Corridor B — demand is concentrated in a few high-volume regions.  
+2. ⏱️ **On-time delivery rate is 92%**, slightly below the target of 95%.  
+3. 🚚 **Average delivery time is 2.8 days** with ~185 km distance, showing mid-range efficiency.  
+4. ⚠️ **Failed deliveries are 3.2%**, indicating room for improvement in reliability.  
+5. 💰 **Cost per delivery (₹420)** is higher in Corridor X, suggesting inefficiencies.  
+
+---
+
+## ✅ Recommendations
+1. 📦 **Scale capacity in Corridor A & B** to handle higher volumes effectively.  
+2. ⏱️ **Improve on-time delivery** by strengthening last-mile operations and monitoring delayed zones.  
+3. 💰 **Optimize routes in Corridor X** to cut costs through re-mapping or renegotiation with carriers.  
+4. ⚠️ **Investigate failed deliveries** (wrong addresses, customer unavailability, partner issues) and act on root causes.  
+5. 📊 **Use demand forecasting** to prepare for peak order periods and avoid bottlenecks.  
+6. 🤝 **Enhance customer experience** by reducing delivery time in high-volume corridors to encourage repeat orders.  
+
